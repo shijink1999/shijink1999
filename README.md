@@ -50,6 +50,6 @@ I'm *Shijin Kunju, a dedicated and analytical thinker with a strong foundation i
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shijin-kunju-273a93167/)  
 [![Email](https://img.shields.io/badge/-Email-grey?style=flat-square&logo=gmail)](mailto:shijinkvkd@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/shijinkvkd)
